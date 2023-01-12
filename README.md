@@ -122,7 +122,7 @@ Execute the program
 ![OUTPUT](http://vishnupriya.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://vishnupriya.student.saveetha.in:8000/static/images/out.validator?raw=true)
+![HTML VALIDATOR](http://vishnupriya.student.saveetha.in:8000/static/images/validator.png?raw=true)
 
 # RESULT
 The program for creating slot time tableis completed successfully
